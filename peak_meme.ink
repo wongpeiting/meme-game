@@ -701,16 +701,11 @@ Out of 600 White House posts, it flagged five.
 - Oct 6, 2025: 'The longer the dems keep the gov shutdown the bigger the sombrero gets'
 - Sep 15, 2025: 'FAFO.'
 
-Five posts. Out of 600.
-
 And the war memes? The Call of Duty overlays on real drone strikes, the Wii bowling on real airstrikes, the GTA kill-feeds on real bombing runs?
 
-Zero. Flagged. Zero.
+None were flagged. Children could see every one of them.
 
-Children could see every one of them.
-
-The meme packaging didn't just boost engagement. It made real violence invisible to the platform's safety systems.
-
+It raises the question: did the meme packaging help real violence slip past the platform's safety systems?
 
 * [Read the full investigation.]
     -> credits
