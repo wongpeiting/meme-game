@@ -1,0 +1,5 @@
+.claude/
+.vscode/
+Untitled/
+*.ipynb
+classifications_final.csv
