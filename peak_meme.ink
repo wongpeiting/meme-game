@@ -444,7 +444,7 @@ The footage keeps coming. Drone feeds. Thermal imaging. Impact footage. Building
     The Director is losing patience. "I need you to go bigger. Way bigger."
 }
 
-He shows you what he has in mind: Call of Duty kill-feed overlays on drone footage. GTA "WASTED" screens on missile strikes. Wii Sports bowling animations on airstrikes. Baseball commentary ("Absolutely crushed!") over bomb impacts.
+He shows you what he has in mind: Call of Duty kill-feed overlays on drone footage. GTA "WASTED" screens on missile strikes. Bowling strike animations on airstrikes. Baseball commentary ("Absolutely crushed!") over bomb impacts.
 
 "The kids will love it."
 
@@ -465,7 +465,7 @@ The footage is real. The people in it are real.
 
     The next morning, five posts go up that you didn't make. Someone else cut them.
 
-    Call of Duty kill-feeds. GTA "WASTED." Wii bowling on airstrikes. Baseball commentary over drone strikes. "Absolutely crushed!"
+    Call of Duty kill-feeds. GTA "WASTED." Bowling strike animations on airstrikes. Baseball commentary over drone strikes. "Absolutely crushed!"
 
     Combined: 33 million views.
 
@@ -514,7 +514,7 @@ The footage is real. The people in it are real.
 
     Views: 3.9 million. The Director wants more. So you make more. # views
 
-    HOME RUN: baseball commentary over missile strikes. TOUCHDOWN: AC/DC over drone footage. STRIKE: Wii bowling on real airstrikes.
+    HOME RUN: baseball commentary over missile strikes. TOUCHDOWN: AC/DC over drone footage. STRIKE: Bowling strike animations on real airstrikes.
 
     Series total: 16.9 million views.
 
@@ -529,7 +529,7 @@ The footage is real. The people in it are real.
     ~ war_memes += 5
     ~ boss_approval += 10
     # effect: shake
-    STRIKE: Wii Sports bowling on airstrike footage. HOME RUN: "Absolutely crushed!" over missile impacts. TOUCHDOWN: AC/DC's Thunderstruck over drone feeds.
+    STRIKE: Bowling strike animations on airstrike footage. HOME RUN: "Absolutely crushed!" over missile impacts. TOUCHDOWN: AC/DC's Thunderstruck over drone feeds.
 
     You turn war into sports highlights.
 
@@ -644,7 +644,7 @@ THE REAL WHITE HOUSE TIKTOK ACCOUNT # header
 
 600 posts. August 2025 to April 2026. 1.45 billion views.
 
-Packaging peak: Level 7. Call of Duty kill-feeds on real drone strikes. GTA scoreboards on bombing runs. Wii bowling on airstrikes.
+Packaging peak: Level 7. Call of Duty kill-feeds on real drone strikes. GTA scoreboards on bombing runs. Bowling strike animations on airstrikes.
 
 The algorithm rewarded every level of escalation. The higher the packaging level, the more views each post averaged. # bold
 
@@ -692,7 +692,7 @@ Out of 600 White House posts, it flagged five.
 - Oct 6, 2025: 'The longer the dems keep the gov shutdown the bigger the sombrero gets'
 - Sep 15, 2025: 'FAFO.'
 
-And the war memes? The Call of Duty overlays on real drone strikes, the Wii bowling on real airstrikes, the GTA kill-feeds on real bombing runs?
+And the war memes? The Call of Duty overlays on real drone strikes, the bowling strike animations on real airstrikes, the GTA kill-feeds on real bombing runs?
 
 None were flagged. Children could see every one of them.
 
