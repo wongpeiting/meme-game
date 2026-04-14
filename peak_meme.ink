@@ -16,9 +16,9 @@ VAR boss_approval = 50
 
 === prologue ===
 # section: prologue
-This is August 2025. The White House launched a TikTok account.
+This is August 2025. The White House launched a TikTok account. Your job is to make the content.
 
-Your job is to make the content. Raw footage lands on your desk: press conferences, policy announcements, military operations. You decide how to package it.
+Raw footage lands on your desk: press conferences, policy announcements, military operations. You decide how to package it.
 
 Your boss wants views. The algorithm has preferences. Every choice you make will be measured.
 
