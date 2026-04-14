@@ -585,7 +585,7 @@ body {
     body { font-size: 1.1rem; }
 
     /* Stats bar */
-    #stats-bar { gap: 0; padding: 0.4rem 0.3rem; font-size: 0.45rem; flex-wrap: nowrap; justify-content: space-between; }
+    #stats-bar { gap: 0; padding: 0.4rem 1rem; font-size: 0.45rem; flex-wrap: nowrap; justify-content: space-evenly; }
     .stat { gap: 0.25rem; flex: 1; justify-content: center; }
     .stat-value { font-size: 0.55rem; white-space: nowrap; }
     .stat-label { font-size: 0.4rem; }
@@ -823,6 +823,19 @@ body {
                 link.style.display = 'block';
                 choicesEl.appendChild(link);
             });
+            // Add repo link below
+            var repoLink = document.createElement('a');
+            repoLink.href = 'https://github.com/wongpeiting/meme-game';
+            repoLink.target = '_blank';
+            repoLink.textContent = 'View source on GitHub';
+            repoLink.style.display = 'block';
+            repoLink.style.textAlign = 'center';
+            repoLink.style.marginTop = '1.5rem';
+            repoLink.style.fontFamily = "'Inter', sans-serif";
+            repoLink.style.fontSize = '0.8rem';
+            repoLink.style.color = '#999';
+            repoLink.style.textDecoration = 'underline';
+            choicesEl.appendChild(repoLink);
             return;
         }
 

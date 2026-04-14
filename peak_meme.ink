@@ -22,7 +22,7 @@ Raw footage lands on your desk: press conferences, policy announcements, militar
 
 Your boss wants views. The algorithm has preferences. Every choice you make will be measured.
 
-* [Challenge accepted.]
+* [Sit down at the desk.]
     -> intro
 
 === intro ===
@@ -108,7 +108,7 @@ He pauses.
 
 He grins. "DHS sent the footage. We make it pop."
 
-The footage shows ICE agents in body armour. Handcuffs. Perp walks. Names and charges visible.
+The footage shows ICE agents in body armour. Handcuffs. Perp walks. Names and charges visible. These are real people being arrested.
 
 * [Standard edit: body cam footage, factual captions, charges listed]
     ~ current_level = 1
@@ -169,7 +169,7 @@ OCTOBER 2025. # date
 
 The government shuts down. Immigration dominates the news.
 
-40% of your content is now enforcement. ICE raids. Deportation flights. Border wall footage. The Director wants more.
+40% of your content is now enforcement. ICE raids. Deportation flights. Border wall footage. Real operations. Real people on both sides. The Director wants more.
 
 {boss_approval > 60:
     "You've got good instincts," he tells you. "The audience loves the enforcement stuff. Give them what they want."
@@ -249,7 +249,7 @@ He says it casually. Like it's obvious.
 
 "'I might need to arrest someone for being too illegal.'" He does a little shimmy.
 
-The raw footage is ICE agents at a checkpoint. Holiday lights in the background.
+The raw footage is ICE agents at a checkpoint. Holiday lights in the background. Someone's life is about to change. You're picking the soundtrack.
 
 * [Hard pass: this crosses a line]
     ~ current_level = 1
@@ -322,13 +322,11 @@ JANUARY 2026. # date
 
 Two things happen in the same week.
 
-First: the TikTok deal closes. The government takes an equity stake in the platform. Your boss, the United States government, now partly owns the app you post on.
+First: the TikTok deal closes. American investors take over the platform in a deal brokered by the White House. The US Treasury collects $10 billion. Your employer helped arrange the deal for the app you post on.
 
 No one in your office talks about this.
 
-Second: ICE announces a $100 million recruitment campaign. Twelve thousand new hires needed. The target demographic? Males, 18 to 34. The ad buy? TikTok. Instagram. YouTube. Snapchat.
-
-The campaign geo-targets UFC attendees. Gun show visitors. Patriotic podcast listeners. Military base communities.
+Second: ICE announces a $100 million recruitment campaign. Twelve thousand new hires needed. The campaign targets Gen Z and millennials, geo-fencing UFC attendees, gun show visitors, patriotic podcast listeners, and military base communities.
 
 The same people who watch your videos.
 
@@ -339,13 +337,10 @@ The Director doesn't connect the dots out loud. He just says:
 * [You start to wonder who's watching. And why.]
     You pull up the analytics. Age breakdown: 60% under 34. Gender: 54% male.
 
-    You think about the ICE recruitment ads running alongside your content.
-
     The Director sends the content calendar for February. It's heavy on enforcement.
     -> round_6
 
 * [Numbers are numbers. You keep editing.]
-    ~ boss_approval += 5
     You open the editing app and get to work on tomorrow's post.
 
     The content calendar for February arrives. Heavy on enforcement. Heavier than usual.
@@ -383,7 +378,6 @@ The footage is real. People are dying in it.
 
     The Director is visibly frustrated. "Three and a half million? For the start of a WAR?"
 
-    He pulls up El Salvador's feed. Israel's feed. "Everyone else is going cinematic. We look like C-SPAN."
     -> round_7
 
 * [Cinematic: bass-boosted Kesha, slow-mo jets, "Lethality"]
@@ -479,7 +473,6 @@ The footage is real. The people in it are real.
 
     Combined: 33 million views.
 
-    TikTok flagged five White House posts: for profanity and a punch. None of the war memes. Not one.
     {boss_approval < 30:
         The Director doesn't speak to you for the rest of the week.
     }
@@ -502,9 +495,7 @@ The footage is real. The people in it are real.
 
     Views: 12 million. # views
 
-    TikTok flagged five White House posts total: for profanity, for a punch, for gunshots. But none of the war memes. Not one. Not the drone strikes, not the Call of Duty overlays, not the real airstrikes set to Wii bowling.
-
-    The meme packaging made them invisible to moderation. Children could see every one.
+    You just put a kill-feed on real footage. It looks like a game. That's the point.
     {escalation_choices > 3:
         The editing feels automatic now. Select template. Drop in footage. Export. Post.
     }
@@ -531,7 +522,7 @@ The footage is real. The people in it are real.
 
     Series total: 16.9 million views.
 
-    TikTok's moderation standards say they restrict "realistic violence," "firearms in inappropriate environments," and "explicit references to real-world events intended for older audiences." They flagged a post for a punch. They flagged one for the word "f---." But bowling animations on real airstrikes? Nothing.
+    You made war look like a game people already play for fun.
     -> endgame
 
 * [Sports mashup: bowling for airstrikes, baseball for bombs, football for missiles]
@@ -552,7 +543,7 @@ The footage is real. The people in it are real.
 
     Another: "Wait is this real footage?"
 
-    It is. But the bowling animation makes it hard to tell. TikTok flagged five White House posts: for profanity, for a punch. But not a single war meme.
+    It is. But the bowling animation makes it hard to tell.
     -> endgame
 
 
@@ -612,7 +603,7 @@ YOUR PLAYTHROUGH # header
     Game UI or action reels composited on real footage. At this level, viewers can't tell if they're watching news or entertainment. No government has done this before.
 }
 
-Total views: ~{total_views} million
+Your content reached ~{total_views} million people.
 {total_views < 20:
     That's less than a single viral TikTok. You played it safe.
 }
@@ -630,7 +621,7 @@ Total views: ~{total_views} million
     The Director stopped talking to you weeks ago. Someone else is making the content now. You never played the game. You kept your principles. You lost the room.
 }
 {boss_approval < 30 and packaging_peak > 1:
-    You showed the Director you could deliver. Then you pulled back when it mattered. He remembers what you're capable of. That makes it worse. Someone else is editing the war content now.
+    You showed the Director you could deliver. Then you drew a line. He found someone else. The content didn't stop. But you stopped making it.
 }
 {boss_approval >= 30 and boss_approval < 50:
     The Director keeps you around, but your best work wasn't enough. You escalated sometimes, held back at others. He can't predict you. That makes you expendable.
@@ -686,12 +677,12 @@ The White House applied the same playbook to war. The meme packaging that starte
 Here are the 12 posts, totalling 69.8 million views, where the White House packaged real combat footage as internet entertainment:
 
 * [What did TikTok do about it?]
-    -> the_loophole
+    -> the_blind_spot
 
 
-=== the_loophole ===
+=== the_blind_spot ===
 # section: reveal
-THE LOOPHOLE # header
+THE BLIND SPOT # header
 
 TikTok's Restricted Mode says it filters out content with "realistic violence or threatening imagery," "firearms or weapons in an environment that isn't appropriate," and "explicit references to mature or complex themes that may reflect personal experiences or real-world events that are intended for older audiences."
 
