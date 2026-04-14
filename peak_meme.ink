@@ -439,7 +439,7 @@ He writes one word on the whiteboard: STRIKE.
 The footage keeps coming. Drone feeds. Thermal imaging. Impact footage. Buildings collapsing in infrared.
 
 {packaging_peak >= 7:
-    You've already crossed every line there was. The Director knows you'll deliver.
+    You've already crossed every line there was. There's nowhere left to go but further.
 }
 {packaging_peak >= 5 and packaging_peak < 7:
     The Director looks at you. "Time to level up."
@@ -635,6 +635,8 @@ Your content reached ~{total_views} million people.
 {boss_approval >= 80:
     The Director made you lead editor. Every major post goes through your desk now. The numbers prove it. He's already talking about a promotion. You gave the machine everything it asked for.
 }
+
+The system worked. That's the problem.
 
 * [Now see what the real White House actually did.]
     -> stats_real
