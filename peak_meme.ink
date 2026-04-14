@@ -189,11 +189,9 @@ Three videos need to go out this week. How do you approach them?
 
     Combined views: 2.1 million. # views
 
-    The Director frowns at his phone. "El Salvador just posted Bukele's gang arrests with movie trailer music. Twenty million views."
+    The Director frowns. "Two million? That's it?"
 
-    He drops the phone on your desk, screen up. You can see the numbers.
-
-    "We can't be the boring government account."
+    He puts his phone down. "We can't be the boring government account."
     -> round_4
 
 * [Lean into enforcement: Homan walking shots, dramatic score, "America's Top Cop"]
@@ -328,14 +326,12 @@ No one in your office talks about this.
 
 Second: ICE announces a $100 million recruitment campaign. Twelve thousand new hires needed. The campaign targets Gen Z and millennials, geo-fencing UFC attendees, gun show visitors, patriotic podcast listeners, and military base communities.
 
-The same people who watch your videos.
-
 The Director doesn't connect the dots out loud. He just says:
 
 "The numbers speak for themselves. Keep doing what you're doing."
 
 * [You start to wonder who's watching. And why.]
-    You pull up the analytics. Age breakdown: 60% under 34. Gender: 54% male.
+    TikTok's US user base skews young and male. You wonder how much of your audience overlaps with the people ICE is trying to recruit.
 
     The Director sends the content calendar for February. It's heavy on enforcement.
     -> round_6
@@ -596,7 +592,7 @@ YOUR PLAYTHROUGH # header
 }
 {packaging_peak == 6:
     Packaging peak: Level 6 of 7: Internet meme.
-    Deep-fried edits, meme audio, troll energy. Government content that looks indistinguishable from shitposting.
+    Deep-fried edits, meme audio, troll energy. Government content that looks like it came from an anonymous meme account.
 }
 {packaging_peak == 7:
     Packaging peak: Level 7 of 7: Game interface.
