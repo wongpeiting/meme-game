@@ -680,8 +680,6 @@ Here are the 12 posts, totalling 69.8 million views, where the White House packa
 
 === the_blind_spot ===
 # section: reveal
-THE BLIND SPOT # header
-
 TikTok's Restricted Mode says it filters out content with "realistic violence or threatening imagery," "firearms or weapons in an environment that isn't appropriate," and "explicit references to mature or complex themes that may reflect personal experiences or real-world events that are intended for older audiences."
 
 Out of 600 White House posts, it flagged five.
