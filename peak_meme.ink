@@ -16,7 +16,7 @@ VAR boss_approval = 50
 
 === prologue ===
 # section: prologue
-This is August 2025. The White House launched a TikTok account. Your job is to make the content.
+This is August 2025. The White House just launched a TikTok account. In this game, you run a fake version of it.
 
 Raw footage lands on your desk: press conferences, policy announcements, military operations. You decide how to package it.
 
@@ -31,7 +31,7 @@ Your boss wants views. The algorithm has preferences. Every choice you make will
 # date: AUG 2025
 AUGUST 19, 2025. # date
 
-Your first day. Social media coordinator. Office of Digital Strategy. The White House.
+Your first day. Social media coordinator. Office of Digital Strategy. The Fake White House.
 
 Your boss (call him the Director) slides a phone across the desk.
 
@@ -414,7 +414,7 @@ The footage is real. People are dying in it.
 
     The most-viewed post in the account's history.
 
-    The Director high-fives you. Actually high-fives you. In the White House.
+    The Director high-fives you. Actually high-fives you. In the Fake White House.
 
     You just made a hype reel for a bombing campaign that outperformed every news network in the country.
     -> round_7
@@ -707,7 +707,5 @@ PEAK MEME # header
 An interactive experience based on original reporting.
 
 Data: 600 White House TikTok posts, collected and classified August 2025 – April 2026. All view counts, captions, and post descriptions referenced in this game are real.
-
-By Wong Pei Ting.
 
 -> END
