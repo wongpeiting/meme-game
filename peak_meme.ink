@@ -642,14 +642,14 @@ The system worked. That's the problem.
 # section: chart
 THE REAL WHITE HOUSE TIKTOK ACCOUNT # header
 
-600 posts. August 2025 to April 2026. 1.45 billion views.
+600 posts. More than 1.5 billion views as of April 22, 2026.
 
 Packaging peak: Level 7. Call of Duty kill-feeds on real drone strikes. GTA scoreboards on bombing runs. Bowling strike animations on airstrikes.
 
 The algorithm rewarded every level of escalation. The higher the packaging level, the more views each post averaged. # bold
 
 {packaging_peak <= 1:
-    You stayed at the bottom of this chart. The real White House climbed to the top. The algorithm paid them 4.5x more for it. # afterchart
+    You stayed at the bottom of this chart. The real White House climbed to the top. The algorithm paid them 4.6x more for it. # afterchart
 }
 {packaging_peak >= 2 and packaging_peak <= 3:
     You made it to the middle of this chart. The real White House went all the way to the top. The algorithm gave them triple what you earned. # afterchart
@@ -672,7 +672,7 @@ The algorithm rewarded every level of escalation. The higher the packaging level
 # section: reel
 The White House applied the same playbook to war. The meme packaging that started with immigration arrests and policy announcements didn't stop when real combat began. It escalated.
 
-Here are the 12 posts, totalling 69.8 million views, where the White House packaged real combat footage as internet entertainment:
+Here are the 12 posts, totalling 77 million views, where the White House packaged real combat footage as internet entertainment:
 
 * [What did TikTok do about it?]
     -> the_blind_spot
